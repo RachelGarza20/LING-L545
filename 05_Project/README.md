@@ -1,3 +1,3 @@
 # Project
 
-`PROJECT DESCRIPTION GOES HERE`
+`This project analizes the probability of code-switching between Spanish and English in four bilingual speakers on Tik Tok. The corpus.txt file includes the raw corpus whereas the tiktok.txt file includes the tokenised (using tokeniser2.py in RachelGarza20/Ling-L545/01_tokenisation) and annotated data. Switchtok.py includes the script used to measure the probability of code-switching within the corpus. In order to test that this script was doing what I had intended, I created a sample file which is the test.txt. The remaining files are the annotated corpora of the individual speakers in the study which were used to find their individual probabilities of code-switching.
