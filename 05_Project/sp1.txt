@@ -1,0 +1,461 @@
+# sent_id = 1
+# text = Sugar daddy: this is el aquel personaje que te paga el apartamento, te compre el carro, te lleva de viaje.
+1       Sugar   _       ADJ     _       _       _       _       _       Lang=eng
+2       daddy   _       NOUN    _       _       _       _       _       Lang=eng
+3       :       _       PUNCT   _       _       _       _       _       _
+4       this    _       PRON    _       _       _       _       _       Lang=eng
+5       is      _       VERB    _       _       _       _       _       Lang=eng
+6       el      _       DET     _       _       _       _       _       Lang=spa
+7       aquel   _       ADJ     _       _       _       _       _       Lang=spa
+8       personaje       _       NOUN    _       _       _       _       _       Lang=spa
+9       que     _       SCONJ   _       _       _       _       _       Lang=spa
+10      te      _       PRON    _       _       _       _       _       Lang=spa
+11      paga    _       VERB    _       _       _       _       _       Lang=spa
+12      el      _       DET     _       _       _       _       _       Lang=spa
+13      apartamento     _       NOUN    _       _       _       _       _       Lang=spa
+14      ,       _       PUNCT   _       _       _       _       _       _
+15      te      _       PRON    _       _       _       _       _       Lang=spa
+16      compre  _       VERB    _       _       _       _       _       Lang=spa
+17      el      _       DET     _       _       _       _       _       Lang=spa
+18      carro   _       NOUN    _       _       _       _       _       Lang=spa
+19      ,       _       PUNCT   _       _       _       _       _       _
+20      te      _       PRON    _       _       _       _       _       Lang=spa
+21      lleva   _       VERB    _       _       _       _       _       Lang=spa
+22      de      _       PREP    _       _       _       _       _       Lang=spa
+23      viaje   _       NOUN    _       _       _       _       _       Lang=spa
+24      .       _       PUNCT   _       _       _       _       _       _
+
+# sent_id = 2
+# text = No aquel que te pagas las soñas de veinte dólares.
+1       No      _       ADV     _       _       _       _       _       Lang=spa
+2       aquel   _       PRON    _       _       _       _       _       Lang=spa
+3       que     _       SCONJ   _       _       _       _       _       Lang=spa
+4       te      _       PRON    _       _       _       _       _       Lang=spa
+5       pagas   _       VERB    _       _       _       _       _       Lang=spa
+6       las     _       DET     _       _       _       _       _       Lang=spa
+7       soñas   _       NOUN    _       _       _       _       _       Lang=spa
+8       de      _       PREP    _       _       _       _       _       Lang=spa
+9       veinte  _       NUM     _       _       _       _       _       Lang=spa
+10      dólares _       NOUN    _       _       _       _       _       Lang=spa
+11      .       _       PUNCT   _       _       _       _       _       _
+
+# sent_id = 3
+# text = Desayunando con ---- desayuno ligero, light.
+1       Desayunando     _       VERB    _       _       _       _       _       Lang=spa
+2       con     _       _       PREP    _       _       _       _       _       Lang=spa
+3       ----    _       NOUN    _       _       _       _       _       Lang=spa
+4       desayuno        _       NOUN    _       _       _       _       _       Lang=spa
+5       ligero  _       ADJ     _       _       _       _       _       Lang=spa
+6       ,       _       PUNCT   _       _       _       _       _       _
+7       light   _       ADJ     _       _       _       _       _       Lang=eng
+8       .       _       PUNCT   _       _       _       _       _       _
+
+# sent_id = 4
+# text = Aquí tenemos el cheap cabazo de pollo, eh ciento cuarenta calorías.
+1       Aquí    _       ADV     _       _       _       _       _       Lang=spa
+2       tenemos _       VERB    _       _       _       _       _       Lang=spa
+3       el      _       DET     _       _       _       _       _       Lang=spa
+4       cheap   _       ADJ     _       _       _       _       _       Lang=eng
+5       cabazo  _       NOUN    _       _       _       _       _       Lang=spa
+6       de      _       ADV     _       _       _       _       _       Lang=spa
+7       pollo   _       NOUN    _       _       _       _       _       Lang=spa
+8       ,       _       PUNCT   _       _       _       _       _       _
+9       eh      _       UH      _       _       _       _       _       Lang=spa
+10      ciento  _       NUM     _       _       _       _       _       Lang=spa
+11      cuarenta        _       NUM     _       _       _       _       _       Lang=spa
+12      calorías        _       NOUN    _       _       _       _       _       Lang=spa
+13      .       _       PUNCT   _       _       _       _       _       _
+
+# sent_id = 5
+# text = Le ponemos todo la clara de huevo.
+1       Le      _       PRON    _       _       _       _       _       Lang=spa
+2       ponemos _       VERB    _       _       _       _       _       Lang=spa
+3       todo    _       PRON    _       _       _       _       _       Lang=spa
+4       la      _       DET     _       _       _       _       _       Lang=spa
+5       clara   _       NOUN    _       _       _       _       _       Lang=spa
+6       de      _       ADV     _       _       _       _       _       Lang=spa
+7       huevo   _       NOUN    _       _       _       _       _       Lang=spa
+8       .       _       PUNCT   _       _       _       _       _       _
+
+# sent_id = 6
+# text = Porque la yema no nos interesa.
+1       Porque  _       SCONJ   _       _       _       _       _       Lang=spa
+2       la      _       DET     _       _       _       _       _       Lang=spa
+3       yema    _       NOUN    _       _       _       _       _       Lang=spa
+4       no      _       ADV     _       _       _       _       _       Lang=spa
+5       nos     _       PRON    _       _       _       _       _       Lang=spa
+6       interesa        _       VERB    _       _       _       _       _       Lang=spa
+7       .       _       PUNCT   _       _       _       _       _       _
+
+# sent_id = 7
+# text = Le agregamos un chin de queso, un poquito de queso.
+1       Le      _       PRON    _       _       _       _       _       Lang=spa
+2       agregamos       _       VERB    _       _       _       _       _       Lang=spa
+3       un      _       DET     _       _       _       _       _       Lang=spa
+4       chin    _       ADV     _       _       _       _       _       Lang=spa
+5       de      _       ADV     _       _       _       _       _       Lang=spa
+6       queso   _       NOUN    _       _       _       _       _       Lang=spa
+7       ,       _       PUNCT   _       _       _       _       _       _
+8       un      _       DET     _       _       _       _       _       Lang=spa
+9       poquito _       ADV     _       _       _       _       _       Lang=spa
+10      de      _       ADV     _       _       _       _       _       Lang=spa
+11      queso   _       NOUN    _       _       _       _       _       Lang=spa
+12      .       _       PUNCT   _       _       _       _       _       _
+
+# sent_id = 8
+# text = Mozarella light.
+1       Mozarella       _       NOUN    _       _       _       _       _       Lang=eng
+2       light   _       ADJ     _       _       _       _       _       Lang=eng
+3       .       _       PUNCT   _       _       _       _       _       _
+
+# sent_id = 9
+# text = Y lo puedes acompañar con un pan, un bagel.
+1       Y       _       CCONJ   _       _       _       _       _       Lang=spa
+2       lo      _       PRON    _       _       _       _       _       Lang=spa
+3       puedes  _       VERB    _       _       _       _       _       Lang=spa
+4       acompañar       _       VERB    _       _       _       _       _       Lang=spa
+5       con     _       PREP    _       _       _       _       _       Lang=spa
+6       un      _       DET     _       _       _       _       _       Lang=spa
+7       pan     _       NOUN    _       _       _       _       _       Lang=spa
+8       ,       _       PUNCT   _       _       _       _       _       _
+9       un      _       DET     _       _       _       _       _       Lang=spa
+10      bagel   _       NOUN    _       _       _       _       _       Lang=eng
+11      .       _       PUNCT   _       _       _       _       _       _
+
+# sent_id = 10
+# text = Que sólo tiene como ciento diez calorías y café negro por supuesto.
+1       Que     _       ADV     _       _       _       _       _       Lang=spa
+2       sólo    _       ADV     _       _       _       _       _       Lang=spa
+3       tiene   _       VERB    _       _       _       _       _       Lang=spa
+4       como    _       PREP    _       _       _       _       _       Lang=spa
+5       ciento  _       NUM     _       _       _       _       _       Lang=spa
+6       diez    _       NUM     _       _       _       _       _       Lang=spa
+7       calorías        NOUN    _       _       _       _       _       _       Lang=spa
+8       y       _       CCONJ   _       _       _       _       _       Lang=spa
+9       café    _       NOUN    _       _       _       _       _       Lang=spa
+10      negro   _       ADJ     _       _       _       _       _       Lang=spa
+11      por supuesto    _       ADV     _       _       _       _       _       Lang=spa
+12      .       _       PUNCT   _       _       _       _       _       _
+
+# sent_id = 11
+# text = Yo le pongo Splenda.
+1       Yo      _       PRON    _       _       _       _       _       Lang=spa
+2       le      _       PRON    _       _       _       _       _       Lang=spa
+3       pongo   _       VERB    _       _       _       _       _       Lang=spa
+4       Splenda _       NOUN    _       _       _       _       _       Lang=eng
+5       .       _       PUNCT   _       _       _       _       _       _
+
+# sent_id = 12
+# text = Desayuno súper ligero de bajas calorías.
+1       Desayuno        _       NOUN    _       _       _       _       _       Lang=spa
+2       súper   _       ADJ     _       _       _       _       _       Lang=spa
+3       ligero  _       ADJ     _       _       _       _       _       Lang=spa
+4       de      _       ADV     _       _       _       _       _       Lang=spa
+5       bajas   _       ADJ     _       _       _       _       _       Lang=spa
+6       calorías        _       NOUN    _       _       _       _       _       Lang=spa
+7       .       _       PUNCT   _       _       _       _       _       _
+
+# sent_id = 13
+# text = Pero, ya mañana que es domingo, así me como mi pan con tonal.
+1       Pero    _       CCONJ   _       _       _       _       _       Lang=spa
+2       ,       _       PUNCT   _       _       _       _       _       _
+3       ya      _       ADV     _       _       _       _       _       Lang=spa
+4       mañana  _       ADV     _       _       _       _       _       Lang=spa
+5       que     _       SCONJ   _       _       _       _       _       Lang=spa
+6       es      _       VERB    _       _       _       _       _       Lang=spa
+7       domingo _       NOUN    _       _       _       _       _       Lang=spa
+8       ,       _       PUNCT   _       _       _       _       _       _
+9       así     _       ADV     _       _       _       _       _       Lang=spa
+10      me      _       PRON    _       _       _       _       _       Lang=spa
+11      como    _       ADV     _       _       _       _       _       Lang=spa
+12      mi      _       DET     _       _       _       _       _       Lang=spa
+13      pan     _       NOUN    _       _       _       _       _       Lang=spa
+14      con     _       PREP    _       _       _       _       _       Lang=spa
+15      tonal   _       NOUN    _       _       _       _       _       Lang=spa
+16      .       _       PUNCT   _       _       _       _       _       _
+
+# sent_id = 14
+# text = I heard you wanted to learn Spanish.
+1       I       _       PRON    _       _       _       _       _       Lang=eng
+2       heard   _       VERB    _       _       _       _       _       Lang=eng
+3       you     _       PRON    _       _       _       _       _       Lang=eng
+4       wanted  _       VERB    _       _       _       _       _       Lang=eng
+5       to      _       PREP    _       _       _       _       _       Lang=eng
+6       learn   _       VERB    _       _       _       _       _       Lang=eng
+7       Spanish _       NOUN    _       _       _       _       _       Lang=eng
+8       .       _       PUNCT   _       _       _       _       _       _
+
+# sent_id = 15
+# text = Let’s do this.
+1-2     Let’s   _       _       _       _       _       _       _       Lang=eng
+1       Let     _       VERB    _       _       _       _       _       Lang=eng
+2       's      _       PRON    _       _       _       _       _       Lang=eng
+3       do      _       VERB    _       _       _       _       _       Lang=eng
+4       this    _       PRON    _       _       _       _       _       Lang=eng
+5       .       _       PUNCT   _       _       _       _       _       _
+
+# sent_id = 16
+# text = ‘Gary vas a terminarte el postre y te va a gustar.
+1       ‘Gary   _       NOUN    _       _       _       _       _       Lang=spa
+2       vas     _       AUX     _       _       _       _       _       Lang=spa
+3       a       _       PREP    _       _       _       _       _       Lang=spa
+4-5     terminarte      _       _       _       _       _       _       _       Lang=spa
+4       terminar        _       VERB    _       _       _       _       _       Lang=spa
+5       te      _       PRON    _       _       _       _       _       Lang=spa
+6       el      _       DET     _       _       _       _       _       Lang=spa
+7       postre  _       NOUN    _       _       _       _       _       Lang=spa
+8       y       _       CCONJ   _       _       _       _       _       Lang=spa
+9       te      _       PRON    _       _       _       _       _       Lang=spa
+10      va      _       AUX     _       _       _       _       _       Lang=spa
+11      a       _       PREP    _       _       _       _       _       Lang=spa
+12      gustar  _       VERB    _       _       _       _       _       Lang=spa
+13      .       _       PUNCT   _       _       _       _       _       _
+
+# sent_id = 17
+# text = ’ Tomorrow your class is at 7.
+1       ’       _       PUNCT   _       _       _       _       _       _
+2       Tomorrow        _       NOUN    _       _       _       _       _       Lang=eng
+3       your    _       DET     _       _       _       _       _       Lang=eng
+4       class   _       NOUN    _       _       _       _       _       Lang=eng
+5       is      _       VERB    _       _       _       _       _       Lang=eng
+6       at      _       PREP    _       _       _       _       _       Lang=eng
+7       7       _       NUM     _       _       _       _       _       Lang=eng
+8       .       _       PUNCT   _       _       _       _       _       _
+
+# sent_id = 18
+# text = Esta es mi voz cuando hablo español.
+1       Esta    _       PRON    _       _       _       _       _       Lang=spa
+2       es      _       VERB    _       _       _       _       _       Lang=spa
+3       mi      _       DET     _       _       _       _       _       Lang=spa
+4       voz     _       NOUN    _       _       _       _       _       Lang=spa
+5       cuando  _       SCONJ   _       _       _       _       _       Lang=spa
+6       hablo   _       VERB    _       _       _       _       _       Lang=spa
+7       español _       NOUN    _       _       _       _       _       Lang=spa
+8       .       _       PUNCT   _       _       _       _       _       _
+
+# sent_id = 19
+# text = This is my voice when I speak English.
+1       This    _       PUNCT   _       _       _       _       _       Lang=eng
+2       is      _       VERB    _       _       _       _       _       Lang=eng
+3       my      _       DET     _       _       _       _       _       Lang=eng
+4       voice   _       NOUN    _       _       _       _       _       Lang=eng
+5       when    _       SCONJ   _       _       _       _       _       Lang=eng
+6       I       _       PRON    _       _       _       _       _       Lang=eng
+7       speak   _       VERB    _       _       _       _       _       Lang=eng
+8       English _       NOUN    _       _       _       _       _       Lang=eng
+9       .       _       PUNCT   _       _       _       _       _       _
+
+# sent_id = 20
+# text = Esta es mi voz cuando I forget cómo se dice una palabra I speak Spanglish.
+1       Esta    _       PRON    _       _       _       _       _       Lang=spa
+2       es      _       VERB    _       _       _       _       _       Lang=spa
+3       mi      _       DET     _       _       _       _       _       Lang=spa
+4       voz     _       NOUN    _       _       _       _       _       Lang=spa
+5       cuando  _       SCONJ   _       _       _       _       _       Lang=spa
+6       I       _       PRON    _       _       _       _       _       Lang=eng
+7       forget  _       VERB    _       _       _       _       _       Lang=eng
+8       cómo    _       ADV     _       _       _       _       _       Lang=spa
+9       se      _       PRON    _       _       _       _       _       Lang=spa
+10      dice    _       VERB    _       _       _       _       _       Lang=spa
+11      una     _       DET     _       _       _       _       _       Lang=spa
+12      palabra _       NOUN    _       _       _       _       _       Lang=spa
+13      I       _       PRON    _       _       _       _       _       Lang=eng
+14      speak   _       VERB    _       _       _       _       _       Lang=eng
+15      Spanglish       _       NOUN    _       _       _       _       _       Lang=eng
+16      .       _       PUNCT   _       _       _       _       _       _
+
+# sent_id = 21
+# text = Y allí acaba todo porque no sé más idiomas.
+1       Y       _       CCONJ   _       _       _       _       _       Lang=spa
+2       allí    _       ADV     _       _       _       _       _       Lang=spa
+3       acaba   _       VERB    _       _       _       _       _       Lang=spa
+4       todo    _       PRON    _       _       _       _       _       Lang=spa
+5       porque  _       SCONJ   _       _       _       _       _       Lang=spa
+6       no      _       ADV     _       _       _       _       _       Lang=spa
+7       sé      _       VERB    _       _       _       _       _       Lang=spa
+8       más     _       ADV     _       _       _       _       _       Lang=spa
+9       idiomas _       NOUN    _       _       _       _       _       Lang=spa
+10      .       _       PUNCT   _       _       _       _       _       _
+
+# sent_id = 22
+# text = Gracias.
+1       Gracias _       VERB    _       _       _       _       _       Lang=spa
+2       .       _       PUNCT   _       _       _       _       _       _
+
+# sent_id = 23
+# text = I need you now version Spanglish.
+1       I       _       PRON    _       _       _       _       _       Lang=eng
+2       need    _       VERB    _       _       _       _       _       Lang=eng
+3       you     _       PRON    _       _       _       _       _       Lang=eng
+4       now     _       ADV     _       _       _       _       _       Lang=eng
+5       version _       NOUN    _       _       _       _       _       Lang=eng
+6       Spanglish       _       NOUN    _       _       _       _       _       Lang=eng
+7       .       _       PUNCT   _       _       _       _       _       _
+
+# sent_id = 24
+# text = No puedo controlar el deseo de llamarte hoy… For me it happens all the time… Prometí nunca llamar, tu número borrar and I need you now… I just need you now.
+1       No      _       ADV     _       _       _       _       _       Lang=spa
+2       puedo   _       AUX     _       _       _       _       _       Lang=spa
+3       controlar       _       VERB    _       _       _       _       _       Lang=spa
+4       el      _       DET     _       _       _       _       _       Lang=spa
+5       deseo   _       NOUN    _       _       _       _       _       Lang=spa
+6       de      _       ADV     _       _       _       _       _       Lang=spa
+7-8     llamarte        _       _       _       _       _       _       _       Lang=spa
+7       llamar  _       VERB    _       _       _       _       _       Lang=spa
+8       te      _       PRON    _       _       _       _       _       Lang=spa
+9       hoy     _       ADV     _       _       _       _       _       Lang=spa
+10      ...     _       PUNCT   _       _       _       _       _       _
+11      For     _       PREP    _       _       _       _       _       Lang=eng
+12      me      _       PRON    _       _       _       _       _       Lang=eng
+13      it      _       PRON    _       _       _       _       _       Lang=eng
+14      happens _       VERB    _       _       _       _       _       Lang=eng
+15      all     _       ADJ     _       _       _       _       _       Lang=eng
+16      the     _       DET     _       _       _       _       _       Lang=eng
+17      time    _       NOUN    _       _       _       _       _       Lang=eng
+18      ...     _       PUNCT   _       _       _       _       _       _
+19      Prometí _       VERB    _       _       _       _       _       Lang=spa
+20      nunca   _       ADV     _       _       _       _       _       Lang=spa
+21      llamar  _       VERB    _       _       _       _       _       Lang=spa
+22      ,       _       PUNCT   _       _       _       _       _       _
+23      tu      _       DET     _       _       _       _       _       Lang=spa
+24      número  _       NOUN    _       _       _       _       _       Lang=spa
+25      borrar  _       VERB    _       _       _       _       _       Lang=spa
+26      and     _       CCONJ   _       _       _       _       _       Lang=eng
+27      I       _       PRON    _       _       _       _       _       Lang=eng
+28      need    _       VERB    _       _       _       _       _       Lang=eng
+29      you     _       PRON    _       _       _       _       _       Lang=eng
+30      now     _       ADV     _       _       _       _       _       Lang=eng
+31      ...     _       PUNCT   _       _       _       _       _       _
+32      I       _       PRON    _       _       _       _       _       Lang=eng
+33      just    _       ADV     _       _       _       _       _       Lang=eng
+34      need    _       VERB    _       _       _       _       _       Lang=eng
+35      you     _       PRON    _       _       _       _       _       Lang=eng
+36      now     _       ADV     _       _       _       _       _       Lang=eng
+37      .       _       PUNCT   _       _       _       _       _       _
+
+# sent_id = 25
+# text = I just need you now.
+1       I       _       PRON    _       _       _       _       _       Lang=eng
+2       just    _       ADV     _       _       _       _       _       Lang=eng
+3       need    _       VERB    _       _       _       _       _       Lang=eng
+4       you     _       PRON    _       _       _       _       _       Lang=eng
+5       now     _       ADV     _       _       _       _       _       Lang=eng
+6       .       _       PUNCT   _       _       _       _       _       _
+
+# sent_id = 26
+# text = In English we say snow cone.
+1       In      _       PREP    _       _       _       _       _       Lang=eng
+2       English _       NOUN    _       _       _       _       _       Lang=eng
+3       we      _       PRON    _       _       _       _       _       Lang=eng
+4       say     _       VERB    _       _       _       _       _       Lang=eng
+5       snowcone        _       NOUN    _       _       _       _       _       Lang=eng
+6       .       _       PUNCT   _       _       _       _       _       _
+
+# sent_id = 27
+# text = En español decimos piragua, cepillado, copo, granizado, raspadilla, raspado, raspao, yun yun.
+1       En      _       PREP    _       _       _       _       _       Lang=spa
+2       español _       NOUN    _       _       _       _       _       Lang=spa
+3       decimos _       VERB    _       _       _       _       _       Lang=spa
+4       piragua _       NOUN    _       _       _       _       _       Lang=spa
+5       ,       _       PUNCT   _       _       _       _       _       _
+6       cepillado       _       NOUN    _       _       _       _       _       Lang=spa
+7       ,       _       PUNCT   _       _       _       _       _       _
+8       copo    _       NOUN    _       _       _       _       _       Lang=spa
+9       ,       _       PUNCT   _       _       _       _       _       _
+10      granizado       _       NOUN    _       _       _       _       _       Lang=spa
+11      ,       _       PUNCT   _       _       _       _       _       _
+12      raspadilla      _       NOUN    _       _       _       _       _       Lang=spa
+13      ,       _       PUNCT   _       _       _       _       _       _
+14      raspado _       NOUN    _       _       _       _       _       Lang=spa
+15      ,       _       PUNCT   _       _       _       _       _       _
+16      raspa   _       NOUN    _       _       _       _       _       Lang=spa
+17      o       _       CCONJ   _       _       _       _       _       Lang=spa
+18      ,       _       PUNCT   _       _       _       _       _       _
+19      yun     _       NOUN    _       _       _       _       _       Lang=spa
+20      yun     _       NOUN    _       _       _       _       _       Lang=spa
+21      .       _       PUNCT   _       _       _       _       _       _
+
+# sent_id = 28
+# text = And I think it’s very confusing but beautiful.
+1       And     _       CCONJ   _       _       _       _       _       Lang=eng
+2       I       _       PRON    _       _       _       _       _       Lang=eng
+3       think   _       VERB    _       _       _       _       _       Lang=eng
+4-5     it’s    _       _       _       _       _       _       _       Lang=eng
+4       it      _       PRON    _       _       _       _       _       Lang=eng
+5       's      _       AUX     _       _       _       _       _       Lang=eng
+6       very    _       ADV     _       _       _       _       _       Lang=eng
+7       confusing       _       ADJ     _       _       _       _       _       Lang=eng
+8       but     _       CCONJ   _       _       _       _       _       Lang=eng
+9       beautiful       _       ADJ     _       _       _       _       _       Lang=eng
+10      .       _       PUNCT   _       _       _       _       _       _
+
+# sent_id = 29
+# text = Primero tengo que pasar por el gas station.
+1       Primero _       ADJ     _       _       _       _       _       Lang=spa
+2       tengo   _       AUX     _       _       _       _       _       Lang=spa
+3       que     _       SCONJ   _       _       _       _       _       Lang=spa
+4       pasar   _       VERB    _       _       _       _       _       Lang=spa
+5       por     _       PREP    _       _       _       _       _       Lang=spa
+6       el      _       DET     _       _       _       _       _       Lang=spa
+7-8     gas station     _       NOUN    _       _       _       _       _       Lang=eng
+7       gas     -       NOUN    _       _       _       _       _       Lang=eng
+8       station _       NOUN    _       _       _       _       _       Lang=eng
+9       .       _       PUNCT   _       _       _       _       _       _
+
+# sent_id = 30
+# text = Por el grifo.
+1       Por     _       PREP    _       _       _       _       _       Lang=spa
+2       el      _       DET     _       _       _       _       _       Lang=spa
+3       grifo   _       NOUN    _       _       _       _       _       Lang=spa
+4       .       _       PUNCT   _       _       _       _       _       _
+
+# sent_id = 31
+# text = La bomba.
+1       La      _       DET     _       _       _       _       _       Lang=spa
+2       bomba   _       NOUN    _       _       _       _       _       Lang=spa
+3       .       _       PUNCT   _       _       _       _       _       _
+
+# sent_id = 32
+# text = La estación del servicio.
+1       La      _       DET     _       _       _       _       _       Lang=spa
+2       estación        _       NOUN    _       _       _       _       _       Lang=spa
+3-4     del     _       ADV     _       _       _       _       _       Lang=spa
+3       de      _       ADV     _       _       _       _       _       Lang=spa
+4       el      _       DET     _       _       _       _       _       Lang=spa
+5       servicio        _       NOUN    _       _       _       _       _       Lang=spa
+6       .       _       PUNCT   _       _       _       _       _       _
+
+# sent_id = 33
+# text = La gasolinera.
+1       La      _       DET     _       _       _       _       _       Lang=spa
+2       gasolinera      _       NOUN    _       _       _       _       _       Lang=spa
+3       .       _       PUNCT   _       _       _       _       _       _
+
+# sent_id = 34
+# text = La vencinera.
+1       La      _       DET     _       _       _       _       _       Lang=spa
+2       vencinera       _       NOUN    _       _       _       _       _       Lang=spa
+3       .       _       PUNCT   _       _       _       _       _       _
+
+# sent_id = 35
+# text = Allí dónde uno le pone la gasolina en el carro.
+1       Allí    _       ADV     _       _       _       _       _       Lang=spa
+2       dónde   _       ADV     _       _       _       _       _       Lang=spa
+3       uno     _       NUM     _       _       _       _       _       Lang=spa
+4       le      _       PRON    _       _       _       _       _       Lang=spa
+5       pone    _       VERB    _       _       _       _       _       Lang=spa
+6       la      _       DET     _       _       _       _       _       Lang=spa
+7       gasolina        _       NOUN    _       _       _       _       _       Lang=spa
+8       en      _       PREP    _       _       _       _       _       Lang=spa
+9       el      _       DET     _       _       _       _       _       Lang=spa
+10      carro   _       NOUN    _       _       _       _       _       Lang=spa
+11      .       _       PUNCT   _       _       _       _       _       _
+
+# sent_id = 36
+# text = Parece que no supieras español.
+1       Parece  _       VERB    _       _       _       _       _       Lang=spa
+2       que     _       SCONJ   _       _       _       _       _       Lang=spa
+3       no      _       ADV     _       _       _       _       _       Lang=spa
+4       supieras        _       VERB    _       _       _       _       _       Lang=spa
+5       español _       NOUN    _       _       _       _       _       Lang=spa
+6       .       _       PUNCT   _       _       _       _       _       _
